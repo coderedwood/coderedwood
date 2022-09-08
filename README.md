@@ -1,5 +1,6 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
-<h1 align="center">Hi 👋, I'm Dwayne Redwood</h1>
+<!-- <h1 align="center">Hi 👋, I'm Dwayne Redwood</h1> -->
+### Hi there, I'm Dwayne Redwood
 <h3 align="center">Passionate about all things DevOps, Automation and Programming</h3>
 <img alt="developer" width="400" src="https://miro.medium.com/max/3000/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
