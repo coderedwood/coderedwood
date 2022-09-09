@@ -24,6 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderedwood&" alt="coderedwood" /></p>
 
-[![CodeRedwood's github activity graph](https://activity-graph.herokuapp.com/graph?username=Coderedwood&theme=github)]
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Coderedwood&theme=github" alt="coderedwood" /></p>
 
-<!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- [![CodeRedwood's github activity graph](https://activity-graph.herokuapp.com/graph?username=Coderedwood&theme=github)] -->
