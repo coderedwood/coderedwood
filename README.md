@@ -29,6 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderedwood&show_icons=true&locale=en" alt="coderedwood" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderedwood&" alt="coderedwood" /></p>
-
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Coderedwood&theme=github" alt="coderedwood" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderedwood&" alt="coderedwood" /></p>s
