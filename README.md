@@ -1,7 +1,11 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
 <h1 align="center">Hi 👋, I'm Dwayne Redwood</h1>
-<h3 align="center">Passionate about all things DevOps, Automation and Programming</h3>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20about%20all%20things%20DevOps,%20Automation%20and%20Programming;Full-stack%20web%20developer;5%2B%20years%20of%20coding%20experience;Always%20embracing%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=0B65C2&vCenter=true&size=22&pause=1000">
+</p>
+
 <img alt="developer" width="400" src="https://miro.medium.com/max/3000/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderedwood&label=Profile%20views&color=0e75b6&style=flat" alt="coderedwood" /> </p>
